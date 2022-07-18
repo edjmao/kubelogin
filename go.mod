@@ -20,6 +20,6 @@ require (
 	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/apimachinery v0.24.3
-	k8s.io/client-go v0.24.3
+	k8s.io/client-go v1.5.2
 	k8s.io/klog/v2 v2.70.1
 )
